@@ -8,36 +8,36 @@ Well, I am not professional but an amateur myself. I wrote this partially to mys
 
 ## Career Research
 
-- general research into salaries and so on
+### General research into salaries and so on
 
 It is 
 
-- what do most photographers do and how their live are going on
+### What do most photographers do and how their live are going on
 
 
 
 ## Education Guide
 
-- Key skills
+### Key skills
 
 
-- Where to learn this skills
+### Where to learn this skills
 
 
-- options
+### options
 
 
-## How to live on photography
+### How to live on photography
 
 How do photographer live economically? -> They borrow it from their parents.
 
 Well, I'm just kidding. Living on your own, is very crucial as a person. It's not easy for a photographer, but don't worry, there are many ways to earn money as a photographer.
 
-- Selling photos
+### Selling photos
 
-- Selling time
+### Selling time
 
-- Selling skills
+### Selling skills
 
 ## Words at the End
 
