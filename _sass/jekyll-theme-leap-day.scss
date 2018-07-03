@@ -48,6 +48,10 @@ h3 {
   line-height: 24px;
 }
 
+h3 + p {
+  padding-left: 30px;
+}
+
 a {
   color:#3399cc;
   font-weight:400;
@@ -375,13 +379,6 @@ footer {
     }
   }
   
-  h3
-  {
-      & + p
-      {
-          padding-left: 30px;
-      }
-  }
   #banner {
     width: 100%;
 
