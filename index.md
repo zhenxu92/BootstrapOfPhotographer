@@ -1,123 +1,44 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Welcome come to a bootstrap to become a photographer
 
-[Link to another page](./another-page.html).
+I've always admired that people who can shoot photos that are stunning, in many ways. I cannot articulate the reasons because, in fact, it's very hard to define a good photographer or to categorized them. Photographers created complex set of work in reflection of themselves, just like paintings, music are actually painters and composers. They let you see the world in their eyes so that you can broaden your views of the world and maybe let some scene become a part of your mind.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Well, I am not professional but an amateur myself. I wrote this partially to myself as a research, but you may find it interesting and useful.
 
 
-### Definition lists can be used with HTML syntax.
+## Career Research
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+- general research into salaries and so on
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+It is 
 
-```
-The final element.
-```
+- what do most photographers do and how their live are going on
+
+
+
+## Education Guide
+
+- Key skills
+
+
+- Where to learn this skills
+
+
+- options
+
+
+## How to live on photography
+
+How do photographer live economically? -> They borrow it from their parents.
+
+Well, I'm just kidding. Living on your own, is very crucial as a person. It's not easy for a photographer, but don't worry, there are many ways to earn money as a photographer.
+
+- Selling photos
+
+- Selling time
+
+- Selling skills
+
+## Words at the End
+
+## Reference
