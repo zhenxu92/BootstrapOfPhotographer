@@ -14,7 +14,7 @@ Nowadays, high paying job are mostly associated with Science, Technology, Engine
 
 According to a recent study.
 
-![Image](../assets/images/stats.jpeg)
+![Image](../images/stats.jpeg)
 
 ### - What do most photographers do and how their live are going on
 
