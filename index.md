@@ -8,36 +8,40 @@ Well, I am not professional but an amateur myself. I wrote this partially to mys
 
 ## Career Research
 
-### General research into salaries and so on
+### - General research into salaries and so on
 
-It is 
+Nowadays, high paying job are mostly associated with Science, Technology, Engineering and Mathematics(STEM) majors. Attentions are paid more compared to other less popular majors like Arts, Politics, Social Studies. Intuitively, jobs related to those majors should not be as high as STEMs, but what are the real numbers.
 
-### What do most photographers do and how their live are going on
+According to a recent study.
+
+![Image](../assets/images/stats.jpeg)
+
+### - What do most photographers do and how their live are going on
 
 
 
 ## Education Guide
 
-### Key skills
+### - Key skills
 
 
-### Where to learn this skills
+### - Where to learn this skills
 
 
-### options
+### - Options
 
 
-### How to live on photography
+### - How to live on photography
 
 How do photographer live economically? -> They borrow it from their parents.
 
 Well, I'm just kidding. Living on your own, is very crucial as a person. It's not easy for a photographer, but don't worry, there are many ways to earn money as a photographer.
 
-### Selling photos
+### - Selling photos
 
-### Selling time
+### - Selling time
 
-### Selling skills
+### - Selling skills
 
 ## Words at the End
 
