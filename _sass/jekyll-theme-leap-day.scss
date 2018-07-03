@@ -373,7 +373,14 @@ footer {
       -ms-text-overflow: ellipsis;
     }
   }
-
+  
+  h3
+  {
+      & + p
+      {
+          padding-left: 30px;
+      }
+  }
   #banner {
     width: 100%;
 
