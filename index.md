@@ -31,7 +31,7 @@ According to a recent study.
 ### - Options
 
 
-### - How to live on photography
+## How to live on photography
 
 How do photographer live economically? -> They borrow it from their parents.
 
