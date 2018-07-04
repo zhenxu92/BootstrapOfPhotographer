@@ -16,7 +16,7 @@ According to a recent study. Most of the jobs under Art section has salaries tha
 
 ![Image](../BootstrapOfPhotographer/assets/images/stats.jpeg)
 
-![Image](../BootstrapOfPhotographer/assets/images/collegeMajorsEarnings.jpeg)
+![Image](../BootstrapOfPhotographer/assets/images/collegeMajorsEarnings.jpg)
 
 Some of the highest income majors are Engineering, Computer Science and so on.
 
