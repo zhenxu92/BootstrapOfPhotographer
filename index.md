@@ -16,13 +16,9 @@ According to a recent study. Most of the jobs under Art section has salaries tha
 
 ![Image](../BootstrapOfPhotographer/assets/images/stats.jpeg)
 
-![Image](../BootstrapOfPhotographer/assets/images/collegeMajorsEarnLowest.jpeg)
+![Image](../BootstrapOfPhotographer/assets/images/collegeMajorsEarnings.jpeg)
 
 Some of the highest income majors are Engineering, Computer Science and so on.
-
-![Image](../BootstrapOfPhotographer/assets/images/collegeMajorHighest.jpeg)
-
-It does not really matter if your interest is big enough to be your strongest drive behind it.
 
 
 ### - What do most photographers do and how their live are going on
@@ -79,7 +75,30 @@ You may wonder where can you learn those skills? Well, there are plenty of metho
 
 I am very glad that there are actually so many resources over there that you can barely learn them all, especially online resources. Personally, I have some collections of tutorials but I find it more comprehensive in [this](https://www.quora.com/How-do-I-learn-photography-1).
 
-You may want to search on Udacity and Udemy or simply just put Google if there is any 
+You may want to search on Udacity and Udemy or simply just Google if there is any good local classes. All the good resources that I prepared will be gathered under "Resources" section.
+
+There are many possible MFA programs, some good programs that are directly related to Photography:
+
+1. [Photographic & Electronic Media MFA](https://www.mica.edu/Programs_of_Study/Graduate_Programs/Photographic_and_Electronic_Media_(MFA).html), Maryland Institute College of Art, Baltimore, Maryland. [Curriculum](https://www.mica.edu/Programs_of_Study/Graduate_Programs/Photographic_and_Electronic_Media_(MFA)/Curriculum.html), estimated tuition: $1195 * 60 credits = $120K. The courses are more related more digital photography and useful.
+
+2. [Photomedia MFA](https://art.washington.edu/art/photomedia-mfa), University of Washington, Seattle, WA. [Curriculum](https://art.washington.edu/art/photomedia-mfa-degree-requirements), estimated tuition: $900 * 90 credits = $81K. The courses are pretty eclectic, the Photography studio is very good.
+
+3. [Multiple programs](https://www.nyu.edu/gsas/dept/fineart/prospective/index.htm) by The Institute of Fine Arts at NYU, New York, NY. The estimation of tuition varies by the program you choose. There are plenty of information over there, you might want to take a deep look. They have a four-year program "Conservation Program" that is very attracting.
+
+4. [MFA in Photography/Digital Imaging](http://www.as.miami.edu/art/areas-of-concentration/graduate-program/), University of Miami, Coral Gables, FL. It is a very general MFA program.
+
+5. [Art Photograph(M.F.A.)](http://vpa.syr.edu/academics/transmedia/graduate/art-photography/), Syracuse University, Syracuse, NY. This is a very general photography MFA program, 60 credits in total. One good thing about it is that they have prepared career resources for the students.
+
+Some of the top art school MFA programs, but they don't provide photography courses directly.
+
+1. [Digital Imaging M.F.A.](https://www.pratt.edu/academics/school-of-art/graduate-school-of-art/digital-arts-grad/dda-grad-degrees/imaging/) at Pratt, Brooklyn, NY. 
+
+2. [Multiple programs](https://www.cca.edu/admissions/grad) at California College of Arts, San Francisco, CA.
+
+3. [MFA studio program](http://www.saic.edu/academics/departments/painting-and-drawing/master-fine-arts-studio) at School of the Arts Institute of Chicago, Chicago, IL.
+
+4. [Multiple programs](http://www.artcenter.edu/academics/graduate-degrees/overview.html) at Art Center, Pasadena, CA.
+
 
 ## How to live on photography
 
@@ -92,6 +111,8 @@ Well, I'm just kidding. Living on your own, is very crucial as a person. It's no
 ### - Selling time
 
 ### - Selling skills
+
+## Resources
 
 ## Words at the End
 
