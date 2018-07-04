@@ -99,6 +99,10 @@ Some of the top art school MFA programs, but they don't provide photography cour
 
 4. [Multiple programs](http://www.artcenter.edu/academics/graduate-degrees/overview.html) at Art Center, Pasadena, CA.
 
+There are also one site worth mentioning, [The Art Institute](https://www.artinstitutes.edu/). They provides nearly all aspects of art education. You may want to check out some of their online resources first.
+
+There are also many online classes which could be good and I will list them in the resources seciont.
+
 
 ## How to live on photography
 
@@ -107,15 +111,67 @@ How do photographer live economically? -> They borrow it from their parents.
 Well, I'm just kidding. Living on your own, is very crucial as a person. It's not easy for a photographer, but don't worry, there are many ways to earn money as a photographer.
 
 ### - Selling photos
+You can shoot your loved photos first than try to sell them. You can either use online stock image sites or find greeting cards, posters or postcards companies to sell your photos. Some of the best stock sites are:
+
+1. [Alamy](https://alamy.com/) by GettyImages
+
+2. [iStock Photo](http://istockphoto.com/), a relatively small stock where images are mostly sold [royalty free](https://en.wikipedia.org/wiki/Royalty-free).
+
+You can also host your own gallery, set up a website to sell your photos on your own.
 
 ### - Selling time
 
+You can shoot by the request of other people. For example,
+
+- portraits
+
+- commercial
+
+- weddings
+
+
 ### - Selling skills
+
+You can also sell you skills by becoming a photography teacher in some sense.
 
 ## Resources
 
+- [Good quick review on Aperture, Shutter and ISO](https://www.youtube.com/watch?v=s11kqGPxPjA)
+
+- [How do I learn Photography](https://www.quora.com/How-do-I-learn-photography-1)
+
+- [An online course that I have tried](http://redredphoto.com/learn-photography-seattle/)
+
+- [How to clean your DSLR sensor and mirror](https://www.youtube.com/watch?v=b1qu7SW_A7I)
+
+- [What is ISO and how to use ISO](https://www.youtube.com/watch?v=P9-fifSFxQw)
+
+- [Night photography tutorial](https://www.youtube.com/watch?v=P9-fifSFxQw)
+
+- More is yet to be added...
+
 ## Words at the End
 
-## Reference
-[Article about lowest income](https://www.forbes.com/sites/niallmccarthy/2017/05/02/the-lowest-paying-college-majors-in-the-u-s-infographic/#39eaef3f24e4)
-[Article about highest income](https://www.statista.com/chart/1795/the-highest-earning-majors-in-the-united-states/)
+Forgive me that I use webpage format as the media to convey those information to you, partly because I think that I want to provide as much as I can to you, but I think I also do it selfishly that I want to practice some static website blogging skills :). Hopefully, it is not overwhelming but useful enough.
+
+### Conclusion
+I did research in the last couple of days and basically have an idea on how photography can change your way of life. You really have passion for photographing and had already done some great jobs. However, being a professional photographer is a different thing. I cannot come to a conclusion to you saying that you can be or you cannot be a pro-photographer, but I should tell you all the facts that I know to you.
+
+Currently, you are considering about going to an school to learn more and possibly get a degree on photography, increasing the chance that you can start a good career on it. I would say that is one good direction. If you checked all the MFA programs that I listed above, there are some programs provide good practice and intern chances to students. Those might be good kickstarts for you, but on the other hand, those programs will cause you about at least $10K to finish excluding the fees that you want to live a quality life during your time of study. There is always a trade-off, but it's your choice.
+
+Good photographer needs years of practice, so you should be prepared. You might also learn all the skills needed and horn them in a long time. One day, your picture could be one of the best in world. Compared to professional study in photography, you might not know some crucial knowledge about the art of photography, together with some career opportunities. If you would like to consider photography as a part-time job, you can definitely succeed in photographing, but it may take more exercise.
+
+As we all know, even if you are good at taking photos one day, the income could still be unstable for a while. You should know that becoming a professional photographer is not just about skills, it's also about social-networking. You need to know how to run a business and control your cash flow. You might experience some hard time, but it's fine since there are always people that can support you. Don't worry about it :)!
+
+All you need is that if you made a choice, be persistent with it.
+
+## References
+- [Article about lowest income](https://www.forbes.com/sites/niallmccarthy/2017/05/02/the-lowest-paying-college-majors-in-the-u-s-infographic/#39eaef3f24e4)
+
+- [Article about highest income](https://www.statista.com/chart/1795/the-highest-earning-majors-in-the-united-states/)
+
+- [How to make momey on Photography](https://www.quora.com/How-do-photographers-make-money)
+
+- [How to earn money from your photos](https://thelightmatters.com/business/how-to-earn-money-from-your-photos/)
+
+- [Royalty free](https://en.wikipedia.org/wiki/Royalty-free)
